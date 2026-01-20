@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olalemi John
+# 👋 Hi, I'm John Olalemi
 
 🚀 **Data Scientist | Machine Learning Engineer | AI Engineer**  
 📍 Lagos, Nigeria  
