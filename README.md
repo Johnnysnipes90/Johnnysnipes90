@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olalemi John
 
-🚀 **Data Scientist | Machine Learning Engineer | AI Engineer (In Progress)**  
+🚀 **Data Scientist | Machine Learning Engineer | AI Engineer**  
 📍 Lagos, Nigeria  
 📊 Business-driven analytics • 🤖 Applied machine learning • ⚙️ Production-ready data systems
 
